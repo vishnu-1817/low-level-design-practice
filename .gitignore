@@ -1,0 +1,16 @@
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Debug files
+*.pdb
+*.dSYM/
